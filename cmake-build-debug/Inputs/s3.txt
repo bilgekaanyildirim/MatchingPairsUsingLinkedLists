@@ -1,0 +1,7 @@
+jasmine likes prince
+jasmine likes aladdin
+jasmine likes aladdin
+homer likes marge
+prince likes princess
+marge likes homer
+aladdin likes princess

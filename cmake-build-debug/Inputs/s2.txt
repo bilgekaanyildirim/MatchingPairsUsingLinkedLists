@@ -1,0 +1,4 @@
+donald likes daisy
+minnie likes mickey
+mickey likes minnie
+daisy likes donald

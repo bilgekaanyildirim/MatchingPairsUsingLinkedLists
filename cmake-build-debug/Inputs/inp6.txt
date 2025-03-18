@@ -1,0 +1,9 @@
+aladdin likes jasmine
+cleopatra likes aladdin
+antony likes cleopatra
+aladdin likes tiana
+jasmine likes aladdin
+antony likes cleopatra
+cleopatra likes antony
+jasmine likes antony
+antony likes jasmine

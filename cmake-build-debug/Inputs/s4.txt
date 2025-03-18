@@ -1,0 +1,11 @@
+aladdin likes jasmine
+kerchak likes kala
+fiona likes shrek
+jasmine likes aladdin
+carl likes ellie
+ellie likes carl
+ellie likes carl
+kala likes kerchak
+donald likes donna
+donna likes donald
+daisy likes donald

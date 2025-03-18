@@ -1,0 +1,8 @@
+naveen likes tiana
+cleopatra likes naveen
+antony likes cleopatra
+naveen likes princess
+tiana likes naveen
+antony likes cleopatra
+cleopatra likes antony
+ebla likes antere
