@@ -1,4 +1,4 @@
-# Matching Pairs using Linked Lists - CS204 Homework 2
+# Matching Pairs using Linked Lists
 
 This project is a C++ program developed for the CS204 Advanced Programming course.  
 It processes a list of "likes" relationships from an input file and organizes them using two separate linked lists:  
